@@ -6,7 +6,6 @@ A Setlist.fm API Swift Package (swift-openapi-generator edition)
 ## Description
 This setlist.fm API Swift Package has been designed to give you easy access to setlist data in order to build fancy applications. This service provides methods to get both setlists and components of setlists such as artists, cities, countries or venues.
 
-
 This is the Swift 5.8, OpenAPI 3.0.x, Apple swift-openapi-generator edition of the [DRLSetlistFM](https://github.com/bdh777psu/DRLSetlistFM) Swift Package.
 
 
@@ -36,6 +35,14 @@ API keys must be included in the request with the 'x-api-key' header.
 To get started, check out the 'Using the generated code in your target' section of the official Apple swift-openapi-generator [documentation](https://swiftpackageindex.com/apple/swift-openapi-generator/0.1.3/tutorials/swift-openapi-generator/clientswiftpm#Using-the-generated-code-in-your-target), which contains step-by-step tutorials!
 
 See the generator in action in [Meet Swift OpenAPI Generator from WWDC23](https://developer.apple.com/videos/play/wwdc2023/10171/).
+
+
+### Supported platforms and minimum versions
+
+| Component | macOS | Linux | iOS | tvOS | watchOS |
+| -: | :-: | :-: | :-: | :-: | :-: |
+| Generator plugin and CLI            | ✅ 10.15+  | ✅     | ❌     | ❌     | ❌    |
+| Generated code, runtime, transports | ✅ 10.15+  | ✅     | ✅ 13+ | ✅ 13+ | ✅ 6+ |
 
 
 ## Author
