@@ -33,9 +33,9 @@ API keys must be included in the request with the 'x-api-key' header.
 
 
 ## Usage Example
-To get started, check out the 'Using the generated code in your target' section of the official Apple swift-openapi-generator [documentation][https://swiftpackageindex.com/apple/swift-openapi-generator/0.1.3/tutorials/swift-openapi-generator/clientswiftpm#Using-the-generated-code-in-your-target], which contains step-by-step tutorials!
+To get started, check out the 'Using the generated code in your target' section of the official Apple swift-openapi-generator [documentation](https://swiftpackageindex.com/apple/swift-openapi-generator/0.1.3/tutorials/swift-openapi-generator/clientswiftpm#Using-the-generated-code-in-your-target), which contains step-by-step tutorials!
 
-See the generator in action in [Meet Swift OpenAPI Generator from WWDC23][https://developer.apple.com/videos/play/wwdc2023/10171/].
+See the generator in action in [Meet Swift OpenAPI Generator from WWDC23](https://developer.apple.com/videos/play/wwdc2023/10171/).
 
 
 ## Author
