@@ -1,4 +1,5 @@
 # SwiftSetlistFM
+[![Build Status](https://app.bitrise.io/app/94a7be0c-1c8f-45b4-b474-d5b657892242/status.svg?token=zS8gqA0ZGrIBlzSSDoxHQw&branch=master)](https://app.bitrise.io/app/94a7be0c-1c8f-45b4-b474-d5b657892242)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FSwiftSetlistFM%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bdh777psu/SwiftSetlistFM) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbdh777psu%2FSwiftSetlistFM%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bdh777psu/SwiftSetlistFM)
 
 A Setlist.fm API Swift Package (swift-openapi-generator edition)
